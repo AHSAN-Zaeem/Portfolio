@@ -27,7 +27,7 @@ J'ai donc dû trouver une idée originale, qui changerait de ce que l'évaluateu
 En fin de cursus scolaire au lycée, le professeur de spécialité NSI nous a lancé un défi: faire une liste de tâches avec les classes en Programmation Orientée Objet avec les classes python.
 
 ## Tâche
-La liste de tâches devait s'appuyer sur tous les principes vus au cours de l'année (classes, récursivité si nécessaire...).
+La liste de tâches devait s'appuyer sur tous les principes vus au cours de l'année (classes, récursivité si nécessaire, les listes définies par compréhension...).
 
 ## Action
 J'ai donc décidé de participer au défi, en proposant une liste de tâches la plus complète possible.
