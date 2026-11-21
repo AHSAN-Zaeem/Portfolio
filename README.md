@@ -16,7 +16,7 @@ Le site devait être assez qualitatif pour mériter une note finale satisfaisant
 J'ai donc dû trouver une idée originale, qui changerait de ce que l'évaluateur risquait de voir dans les autres travaux, et l'interpellerait. Après avoir trouvé mon idée et après plusieurs essais, j'ai donc fais mon maximum pour la mettre en œuvre. J'ai alors travaillé sur le fond en structurant des balises HTML pour avoir un code complet et exhaustif. Puis sur la forme en organisant un fichier CSS par fichier HTML évitant ainsi tout problème de référencement ou de modification appliquée à plusieurs pages, chaque fichier de style dépeignant une approche globale du CSS, contenant un ensemble de références CSS convenables et pertinentes, s'inscrivant dans le but final d'attirer le regard de l'évaluateur. Pour cela, j'ai utilisé différents logiciels dont un IDLE (Visual Studio Code), mon navigateur internet, et des extensions de ces deux logiciels respectifs pour m'aider à visualiser mes modifications (exemples: Live Server, ColorPicker, remove.bg pour les logos...).
 
 ## Résultat
-En cours d'évaluation
+Évalué. Devoir réussi. 17/20.
 
 <hr>
 
