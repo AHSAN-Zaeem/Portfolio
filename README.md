@@ -17,3 +17,21 @@ J'ai donc dû trouver une idée originale, qui changerait de ce que l'évaluateu
 
 ## Résultat
 En cours d'évaluation
+
+<hr>
+
+# Projet ListeTache en Python
+
+## Situation
+En fin de cursus scolaire au lycée, le professeur de spécialité NSI nous a lancé un défi: faire une liste de tâches avec les classes en Programmation Orientée Objet avec les classes python.
+
+## Tâche
+La liste de tâches devait s'appuyer sur tous les principes vus au cours de l'année (classes, récursivité si nécessaire...).
+
+## Action
+J'ai donc décidé de participer au défi, en proposant une liste de tâches la plus complète possible.
+En effet, j'ai appuyé mon travail sur tout ce que quelqu'un pourait chercher dans une application ou dans un site qui ferait "liste de tâches".
+J'ai donc implémenté des méthodes telles que pouvoir créer/supprimer/modifier une tâche, gérer les priorités de tâches, pouvoir les afficher selon des principes particuliers (tri par priorité par exemple). J'ai d'abord travaillé sur l'environnement mis à disposition par le lycée (JupyterHub) puis ai basculé sur un IDE personnel (Atom). En m'appuyant sur les leçons et sur plusieurs vidéos explicatives pour compléter mes connaissances j'ai produit un résultat, le plus complet possible.
+
+## Résultat
+J'ai réussi le défi et ai même obtenu une récompense pour le travail accompli.
