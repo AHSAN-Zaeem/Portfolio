@@ -18,7 +18,9 @@ J'ai donc dû trouver une idée originale, qui changerait de ce que l'évaluateu
 ## Résultat
 Évalué. Devoir réussi. 17/20.
 
-
+<hr>
+<hr>
+<hr>
 
 # Projet ListeTache en Python
 
